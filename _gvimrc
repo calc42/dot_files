@@ -1,0 +1,7 @@
+set clipboard=unnamed
+
+set background=dark
+colorscheme solarized
+
+set guifont=Myrica_M:h12:cSHIFTJIS:qDRAFT
+
